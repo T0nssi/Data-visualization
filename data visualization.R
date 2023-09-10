@@ -94,4 +94,4 @@ library(ggthemes)
 ggplot(diamonds,aes(cut,fill=color))+geom_bar()+theme_wsj()
 
 # 5 charts by use diamonds data set--pdf
-# Create 5 charts form Skooldio in google sheet 
+# Create 5 charts form Skooldio in google sheet 121212
